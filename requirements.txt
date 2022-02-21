@@ -19,3 +19,4 @@ tabulate
 python-dotenv
 progressbar2
 pyrad
+MarkupSafe==2.0.1
